@@ -1,2 +1,3 @@
 # Rock? Scissor? Paper!
->:V kalian ga pernah main ini??
+kalian ga pernah main ini?? >:V
+👊✌✋  🤔
