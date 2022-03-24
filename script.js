@@ -51,7 +51,7 @@ const Pilihan = document.querySelectorAll('button');
 Pilihan.forEach(function(pil){
     pil.addEventListener('click', function(){
         let imgComputer = document.querySelector('button');
-        imgComputer.style.opacity = '1';
+        imgComputer.style.opacity = '0.5';
         imgComputer.style.display = 'inline'
         const imgCom = document.querySelectorAll('button')[1];
         imgCom.style.opacity = '0'
